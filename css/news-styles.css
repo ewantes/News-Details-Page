@@ -7692,3 +7692,8 @@ footer .hexagon:after {
     margin-left: 13.5%;
   }
 }
+@media (min-width: 1200px) {
+  main {
+    height: 110%;
+  }
+}
