@@ -7691,6 +7691,9 @@ footer .hexagon:after {
   .cont-for-button ul li {
     margin-left: 13.5%;
   }
+  main {
+    height: 100%;
+  }
 }
 @media (min-width: 1200px) {
   main {
